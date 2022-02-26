@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m RANI BHARTI
 - 👀 I’m interested in developing a software
-- 🌱 I’m currently purusuing MCA.
+- 🌱 I’m currently pursuing MCA.
 - 💞️ I’m looking to collaborate for various hackathons.
 - 📫 How to reach me:ranibharti9888@gmail.com 
 
