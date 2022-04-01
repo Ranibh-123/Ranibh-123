@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m RANI BHARTI
+- 👋 Hello Everyone, I’m RANI BHARTI
 - 👀 I’m interested in developing a software
 - 🌱 I’m currently pursuing MCA.
 - 💞️ I’m looking to collaborate for various hackathons.
